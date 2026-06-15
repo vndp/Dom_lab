@@ -115,21 +115,6 @@ Usa **Tailwind CSS** via CDN para estilização rápida.
 
 ---
 
-## 🚀 Como rodar
-
-Nenhuma instalação necessária! Basta abrir qualquer arquivo `.html` diretamente no navegador ou usar a extensão **Live Server** no VS Code para ver as alterações em tempo real.
-
-```
-1. Clone o repositório:
-   git clone https://github.com/vndp/Dom_lab.git
-
-2. Abra a pasta no VS Code
-
-3. Clique com o botão direito em qualquer .html → "Open with Live Server"
-```
-
----
-
 ## Tecnologias
 
 - HTML5
